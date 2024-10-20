@@ -105,7 +105,13 @@ header {
 /* Acknowledgments Section */
 .acknowledgments {
   padding: 50px 20px;
-  background-color: #fff;
+  
+  background-image: url('images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
 }
 
 .cards-container {
@@ -138,7 +144,7 @@ header {
 /* Group Photos Section */
 .photos {
   padding: 50px 20px;
-  background-color: #f9f9f9;
+  background-color:lightblue;
   text-align: center;
 }
 
