@@ -17,7 +17,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  height: 100vh;
+  height: auto;
 }
 
 /* Container for the entire page content */
